@@ -39,10 +39,10 @@ This app uses the [LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Fla
 
 ## Steps
 
-1.python -m venv venv 
+- python -m venv venv 
   source venv/bin/activate   # On Windows: venv\Scripts\activate
-2.pip install -r requirements.txt
-3.streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
   
 
 
